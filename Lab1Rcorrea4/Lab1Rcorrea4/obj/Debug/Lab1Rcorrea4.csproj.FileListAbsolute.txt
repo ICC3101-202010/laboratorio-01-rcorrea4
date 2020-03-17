@@ -1,0 +1,7 @@
+C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\bin\Debug\Lab1Rcorrea4.exe.config
+C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\bin\Debug\Lab1Rcorrea4.exe
+C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\bin\Debug\Lab1Rcorrea4.pdb
+C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.csprojAssemblyReference.cache
+C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.csproj.CoreCompileInputs.cache
+C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.exe
+C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.pdb
