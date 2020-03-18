@@ -15,7 +15,7 @@ namespace Lab1Rcorrea4
             int lanzado = player1.lanzar();
             
             
-            Console.WriteLine( player1.Name +" " +player1.LastName + "lanzo " + lanzado);
+            Console.WriteLine( player1.Name +" " +player1.LastName + " lanzo " + lanzado);
             Console.ReadLine();
 
         }

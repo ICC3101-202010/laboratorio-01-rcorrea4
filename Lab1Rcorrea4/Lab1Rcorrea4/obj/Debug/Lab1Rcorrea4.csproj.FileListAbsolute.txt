@@ -5,3 +5,10 @@ C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorre
 C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.csproj.CoreCompileInputs.cache
 C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.exe
 C:\Users\Raimundo Correa\Desktop\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.pdb
+C:\Users\corre\OneDrive\Escritorio\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\bin\Debug\Lab1Rcorrea4.exe.config
+C:\Users\corre\OneDrive\Escritorio\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\bin\Debug\Lab1Rcorrea4.exe
+C:\Users\corre\OneDrive\Escritorio\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\bin\Debug\Lab1Rcorrea4.pdb
+C:\Users\corre\OneDrive\Escritorio\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.csprojAssemblyReference.cache
+C:\Users\corre\OneDrive\Escritorio\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.csproj.CoreCompileInputs.cache
+C:\Users\corre\OneDrive\Escritorio\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.exe
+C:\Users\corre\OneDrive\Escritorio\laboratorio-01-rcorrea4\Lab1Rcorrea4\Lab1Rcorrea4\obj\Debug\Lab1Rcorrea4.pdb
