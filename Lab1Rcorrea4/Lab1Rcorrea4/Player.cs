@@ -20,7 +20,7 @@ namespace Lab1Rcorrea4
         public string Name { get => name; set => name = value; }
         public string LastName { get => lastName; set => lastName = value; }
 
-        public int lanzar(int min=0, int max=2)
+        public int lanzar(int min=0, int max=3)
         {
             Random random = new Random();
             return random.Next(min, max);
